@@ -7,6 +7,7 @@
 
 import UIKit
 
+/// Controller to view and change app Settings
 final class VCSettingViewController: UIViewController {
 
     override func viewDidLoad() {

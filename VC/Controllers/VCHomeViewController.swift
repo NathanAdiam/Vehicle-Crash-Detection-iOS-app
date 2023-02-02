@@ -7,6 +7,7 @@
 
 import UIKit
 
+/// Controller to show Home page
 final class VCHomeViewController: UIViewController {
 
     override func viewDidLoad() {

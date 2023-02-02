@@ -7,6 +7,7 @@
 
 import UIKit
 
+/// Controller to show and add Emergency Contacts
 class VCContactsViewController: UIViewController {
 
     override func viewDidLoad() {
